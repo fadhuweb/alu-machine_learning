@@ -1,4 +1,6 @@
- function def mean_cov(X):
+#!/usr/bin/env python3
+"""
+    a function def mean_cov(X):
     that calculates the mean and covariance of a data set:
 """
 
